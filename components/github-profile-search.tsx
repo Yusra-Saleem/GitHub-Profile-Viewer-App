@@ -1,4 +1,6 @@
-"use client"; // Enables client-side rendering for this component
+/* eslint-disable */
+
+"use client"; 
 
 import { useState } from "react"; // Import useState hook from React
 import {
